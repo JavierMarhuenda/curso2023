@@ -1,0 +1,3 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+helpdesk_javiermarhuenda.helpdesk_ticket_user,helpdesk_ticket_user,helpdesk_javiermarhuenda.model_helpdesk_ticket,helpdesk_javiermarhuenda.res_groups_helpdesk_ticket_user,1,0,0,0
+helpdesk_javiermarhuenda.helpdesk_ticket_manager,helpdesk_ticket_manager,helpdesk_javiermarhuenda.model_helpdesk_ticket,helpdesk_javiermarhuenda.res_groups_helpdesk_ticket_manager,1,1,1,1
